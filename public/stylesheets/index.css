@@ -1,0 +1,35 @@
+.dropdown-menu {
+    background-color: black;
+    border-radius: 5px;
+}
+
+.dropdown-menu a i {
+    text-align: center;
+    margin-right: 5px;
+}
+
+.fa {
+    margin-right: 3px;
+}
+
+.social {
+    margin: 5px;
+}
+
+#service:hover {
+    border: 1px solid black;
+    border-radius: 4px;
+    color: rgb(69, 104, 220);
+}
+
+#courses:hover {
+    border: 1px solid black;
+    border-radius: 4px;
+    color: rgb(69, 104, 220);
+}
+
+.badge {
+    background-color: rgba(69, 104, 220, 0.7);
+    color: rgb(255, 255, 255);
+    text-align: right;
+}

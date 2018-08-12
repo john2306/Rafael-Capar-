@@ -1,0 +1,25 @@
+.fa,
+.icon-pin {
+    margin-right: 3px;
+}
+
+.badge {
+    background-color: rgba(69, 104, 220, 0.7);
+    color: rgb(255, 255, 255);
+    text-align: right;
+}
+
+.titulo {
+    font-size: 16px;
+    color: black;
+}
+
+.btn {
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 2px solid rgba(69, 104, 220, 0.7);
+}
+
+.btn:hover {
+    background-color: rgba(69, 104, 220, 0.7);
+    color: rgb(255, 255, 255);
+}
